@@ -4,4 +4,4 @@ var connect = require('connect'),
 var app = connect();
 
 app.use(serveStatic(__dirname));
-app.listen(3334);
+app.listen(3334P);
